@@ -18,7 +18,12 @@ Both the training and test datasets are provided as compressed ZIP files that ca
 
 In this notebook, I provide an overview of the competition and comprehensive solution to the Image Matching Challenge 2022 Kaggle competition, providing an end-to-end implementation for the problem statement, from data exploration and preprocessing to model training and submission.
 
+**Note: This notebook has more than 25mb, So I can only upload code.**
+
+
+---
 ![imge matching (1)](https://user-images.githubusercontent.com/109660074/234576515-f99972f7-ccc2-405c-86fb-c91b316e7c32.jpg)
+---
 
 
 

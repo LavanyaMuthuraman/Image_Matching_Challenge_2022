@@ -1,6 +1,6 @@
 ---
 # Image Matching Challenge 2022
-##### Register two images from different viewpoints
+#### Register two images from different viewpoints
 ---
 
 ## **Description**
